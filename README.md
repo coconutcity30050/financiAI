@@ -4,7 +4,7 @@
 
 * dataset/Reports (存摺影本, 財務報表, 零用金明細表)<br>
 
-* dataset/csv (從影本.jpg 轉成 .csv格式)<br>
+* dataset/csv (從存摺影本.jpg 轉成 .csv格式)<br>
 
 ---
 ## 存摺影本資料庫化
