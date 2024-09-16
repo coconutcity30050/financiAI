@@ -1,8 +1,8 @@
 # financiAI
 
 ## 資料集
-dataset/Reports (raw data = jpg/pdf)
-dataset/csv (converted data)
+dataset/Reports (raw data = jpg/pdf)<br>
+dataset/csv (converted data)<br>
 
 ---
 ## 存摺影本資料庫化
