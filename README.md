@@ -14,7 +14,7 @@
 
 #### 使用 `Gemini-1.5-Flash` AI模型 將存摺影本轉成.csv格式檔案<br>
 
-`gemini_jpg2csv.py dataset/Reports/113-07/*.jpg > dataset/csv/*.csv`<br>
+`python gemini_img2csv.py dataset/Reports/113-07/113-07-存摺影本1.jpg > dataset/csv/113-07-1.csv`<br>
 
 ---
 ### Step 2. Transfer CSV to SQLite3 
