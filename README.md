@@ -1,13 +1,15 @@
 # financiAI
 
 ## 資料集
-dataset/Reports (raw data = jpg/pdf)<br>
-dataset/csv (converted data)<br>
+
+dataset/Reports (存摺影本, 財務報表, 零用金明細表)<br>
+
+dataset/csv (從影本.jpg 轉成 .csv格式)<br>
 
 ---
 ## 存摺影本資料庫化
 
-### Step 1. Convert Image to CSV file 
+### Step 1. Convert Image to CSV file
 將存摺影本轉成.csv格式檔案<br>
 
 `gemini_jpg2csv.py dataset/Reports/113-07/*.jpg > dataset/csv/*.csv`<br>
