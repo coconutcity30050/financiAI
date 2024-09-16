@@ -1,11 +1,12 @@
 # pip install google.generativeai
-# usage: python gemini_img2csv.py 113-07-1.jpg > 113-07-1.csv
+# usage: python gemini_img2csv.py dataset/Reports/113-07/113-07-存摺影本1.jpg > dataset/csv/113-07-1.csv
 import sys
 import google.generativeai as genai
 import PIL.Image
 import os
 
-GOOGLE_API_KEY="AIzaSyCnRzbxgrMX1GjIHnN7U6EQVM8YKy9Ikw4" ## https://aistudio.google.com/app/apikey
+## please get API_KEY from https://aistudio.google.com/app/apikey
+GOOGLE_API_KEY="---------------------------------------"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 ## for table in jpg
