@@ -1,9 +1,5 @@
 # financiAI
-
----
-## Download project codes & start
-
-
+![](https://github.com/coconutcity30050/financiAI/blob/main/assets/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80front.png?raw=true)
 
 ---
 ## 資料集
@@ -12,6 +8,7 @@
 
 * dataset/csv (從存摺影本.jpg 轉成 .csv格式)<br>
 
+### Download & Start
 ```
 git clone https://github.com/coconutcity30050/financiAI/
 cd financiAI
