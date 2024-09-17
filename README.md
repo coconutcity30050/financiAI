@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td><img width="50%" height="50%" src="https://github.com/coconutcity30050/financiAI/blob/main/assets/113-03-passbook.png?raw=true"></td>
-<td><img widht="50%" height="50%" src="https://github.com/coconutcity30050/financiAI/blob/main/assets/113-04-csv.png?raw=true"></td>
+<td><img widht="25%" height="25%" src="https://github.com/coconutcity30050/financiAI/blob/main/assets/113-04-csv.png?raw=true"></td>
 </tr>
 </table>
 
