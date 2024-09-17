@@ -25,9 +25,13 @@ ls dataset/csv
 ### Step 1. Convert Image to CSV file
 (Gemini 是谷歌的大型語言模型, 並具有視覺能力)<br>
 
-#### 使用 `Gemini-1.5-Flash` AI模型 將存摺影本轉成.csv格式檔案<br>
+#### 將單一存摺影本.jpg轉成.csv格式檔案<br>
 
 `python gemini_img2csv.py dataset/Reports/113-07/113-07-存摺影本1.jpg > dataset/csv/113-07-1.csv`<br>
+
+#### 將整個檔案夾裡的存摺影本都轉換成.csv
+`python gemini_img2csv.py dataset/Reports/113-08`<br>
+
 
 ---
 ### Step 2. Transfer CSV to SQLite3 
