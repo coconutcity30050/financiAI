@@ -32,6 +32,7 @@ ls dataset/csv
 #### 將整個檔案夾裡的存摺影本都轉換成.csv
 `python gemini_img2csv.py dataset/Reports/113-08`<br>
 
+* 須注意存摺影本.jpg之清晰度, 可能需要先影像處理, 來提高辨識的正確率
 
 ---
 ### Step 2. Transfer CSV to SQLite3 
