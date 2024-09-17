@@ -1,5 +1,8 @@
 # financiAI
-![](https://github.com/coconutcity30050/financiAI/blob/main/assets/113-03-passbook.png?raw=true)
+<p>
+<img src="https://github.com/coconutcity30050/financiAI/blob/main/assets/113-03-passbook.png?raw=true">
+<img src="https://github.com/coconutcity30050/financiAI/blob/main/assets/113-04-csv.png?raw=true">
+</p>
 
 ---
 ## 資料集
