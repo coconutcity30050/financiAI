@@ -1,5 +1,5 @@
 # financiAI
-![](https://github.com/coconutcity30050/financiAI/blob/main/assets/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80front.png?raw=true)
+![](https://github.com/coconutcity30050/financiAI/blob/main/assets/113-04-passbook.png?raw=true)
 
 ---
 ## 資料集
